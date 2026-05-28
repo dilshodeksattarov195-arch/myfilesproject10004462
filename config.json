@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpalidate",
+        "uuid": 26664912,
+        "checksum": "4g0qrm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
